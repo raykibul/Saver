@@ -26,9 +26,9 @@ in the dependencies add this line
 *  implementation 'com.github.raykibul:Saver:1.0.0'
 now click the 'Sync Now ' from screen top left side.
 
-###its done!!!.
+### its done!!!.
 
-####save a string
+### save a string
 1.initialize first
  Save save=Save.getinstance(this);
 2. save.savestring("stringName","Value");
