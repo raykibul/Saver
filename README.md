@@ -1,6 +1,6 @@
 # Saver ( Save variables or Object type data)
 Saver is a android library which will help you to save a value in shared Preference file in android app. However , You no need to write those code in your project. 
-###Supported Data type
+### Supported Data type
 1. String
 2. Int
 3. Float
